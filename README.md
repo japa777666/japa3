@@ -381,7 +381,7 @@ selfTab:AddToggle({
 selfTab:AddSlider({
     Name = "Ajustar Velocidade",
     Min = 16,
-    Max = 1000,
+    Max = 200,
     Default = speedValue,
     Color = Color3.fromRGB(255, 0, 0),
     Increment = 1,
